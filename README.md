@@ -29,3 +29,8 @@ clang volume.c -o volume
 ```bash
 ./volume input.wav output.wav 2
 ```
+
+## License
+  This project is licensed under the MIT License - see the LICENSE file for details.
+
+  Feel free to customize it further to match your project’s specifics! If you need any more help, just let me know.
