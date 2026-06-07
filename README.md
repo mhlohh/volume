@@ -15,6 +15,17 @@ A command-line utility written in C designed to modify the volume of `.wav` audi
 ### 1. Clone the repository
 ```bash
 git clone [https://github.com/YOUR_GITHUB_USERNAME/volume.git](https://github.com/YOUR_GITHUB_USERNAME/volume.git)
+```
+### 2. Change directery
+```bash
 cd volume
+```
+### 3. Compile the code
+```bash
 clang volume.c -o volume
-./volume input.wav output.wav volume_factor
+```
+
+### 4. Usage 
+```bash
+./volume input.wav output.wav 2
+```
